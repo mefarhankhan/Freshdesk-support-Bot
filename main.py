@@ -17,7 +17,7 @@ FRESHDESK_API_KEY = os.getenv("FRESHDESK_API_KEY")
 
 DOMAIN = os.getenv("DOMAIN")
 
-MY_AGENT_ID = 31027813716
+MY_AGENT_ID = Your_ID
 
 OLLAMA_URL = "http://localhost:11434/api/generate"
 
