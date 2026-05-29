@@ -1,0 +1,122 @@
+{
+  "3850553": {
+    "ticket_id": 3850553,
+    "timestamp": "2026-05-23 18:14:29.939237",
+    "subject": "Order not receved",
+    "thread": "\nSUBJECT:\nOrder not receved\n\n\nORIGINAL ISSUE:\nI ordered a book order id is AWB:143263418484773, that was out for delivery yesterday but delevery person not reach to me or not contct to me and reatemed scheduled I reatemed for delevery, but delevery person not respond, Please provide me contact no of delevery person.\n\n",
+    "intent": "ORDER_NOT_FOUND",
+    "summary": "Order not received; unable to track delivery",
+    "reply": "Please share your registered mobile number/email ID used during purchase or share the order screenshot. Without valid registered details, no action can be taken.",
+    "status": "AUTO_REPLIED"
+  },
+  "3849992": {
+    "ticket_id": 3849992,
+    "timestamp": "2026-05-23 18:16:08.944237",
+    "subject": "Issues regarding book purchase",
+    "thread": "\nSUBJECT:\nIssues regarding book purchase\n\n\nORIGINAL ISSUE:\nI have purchased 2 books from books.testbook, the payment was successful but neither i received any sms or order confirmation nor did i receive any mail or the books in my mail.\n\n\nCUSTOMER:\nThis is my number. 8825062271 On Tue, 19 May, 2026, 9:16 am Testbook Support,\n\n\nCUSTOMER:\nYou can call me now 8825062271 On Wed, 20 May, 2026, 8:09 am Testbook Support,\n\n",
+    "intent": "ORDER_NOT_FOUND",
+    "summary": "Order not confirmed and no books received",
+    "reply": "Please share your registered mobile number/email ID used during purchase or share the order screenshot. Without valid registered details, no action can be taken.",
+    "status": "AUTO_REPLIED"
+  },
+  "3848661": {
+    "ticket_id": 3848661,
+    "timestamp": "2026-05-23 18:16:48.476800",
+    "subject": "",
+    "thread": "\nSUBJECT:\n\n\n\nORIGINAL ISSUE:\nSir/ madam I ordered Nvs/ kvs textbook but I give wrong mobile number Correct mobile number - 6364685817\n\n\nCUSTOMER:\nI ordered Nvs kvs TGT science descriptive textbook book but I give wrong mobile number Correct mobile number is 6364682817 On Mon, 18 May, 2026, 6:17 pm Testbook Support,\n\n\nCUSTOMER:\nPlease give delivery man contact number > I ordered Nvs kvs TGT science descriptive textbook book but I give wrong > mobile number > Correct mobile number is 6364682817 > > On Mon, 18 May, 2026, 6:17 pm Testbook Support,\n\n",
+    "intent": "ORDER_DELAY",
+    "summary": "Incorrect mobile number provided during order",
+    "reply": "Please wait until the estimated delivery date (EDD). You can also track the latest shipment status here:\nhttps://search-dashboard-uiwb.onrender.com/\n\nIf the EDD has already passed and the order is still not delivered/dispatched, kindly report back to us for further investigation.",
+    "status": "AUTO_REPLIED"
+  },
+  "3848376": {
+    "ticket_id": 3848376,
+    "timestamp": "2026-05-23 18:17:20.303531",
+    "subject": "Need urgent attention ⚠️⚠️",
+    "thread": "\nSUBJECT:\nNeed urgent attention ⚠️⚠️\n\n\nORIGINAL ISSUE:\nDear Team, I am writing to bring to my attention an issue regarding a book I recently purchased. I have attached the order details to this email for your reference. Although the order was placed on 14 may, I have not yet received the delivery. I have attempted to contact the delivery person multiple times, but the line is continuously busy. Could you please look into this matter and take the necessary action to ensure my order is delivered as soon as possible? I look forward to your prompt response. Best regards, Ranvir Singh Ranvir Singh\n\n",
+    "intent": "ORDER_DELAY",
+    "summary": "",
+    "reply": "Please wait until the estimated delivery date (EDD). You can also track the latest shipment status here:\nhttps://search-dashboard-uiwb.onrender.com/\n\nIf the EDD has already passed and the order is still not delivered/dispatched, kindly report back to us for further investigation.",
+    "status": "AUTO_REPLIED"
+  },
+  "3846643": {
+    "ticket_id": 3846643,
+    "timestamp": "2026-05-23 18:19:26.918157",
+    "subject": "Order is not shown in my account",
+    "thread": "\nSUBJECT:\nOrder is not shown in my account\n\n\nORIGINAL ISSUE:\nHi, I purchased a book from Testbook and payment was successful through Razorpay, but I did not receive any order confirmation, email, SMS, or tracking details. Please check my order status. Payment ID: pay_SpWIQ52bBoYUZd Amount: ₹119 Date & Time: May 15, 11:09 AM I am attaching the payment screenshot for reference.\n\n\nCUSTOMER:\nThis is my number. 7903791751\n\n",
+    "intent": "ORDER_NOT_FOUND",
+    "summary": "Customer did not receive order confirmation and tracking details after successful payment",
+    "reply": "Please share your registered mobile number/email ID used during purchase or share the order screenshot. Without valid registered details, no action can be taken.",
+    "status": "AUTO_REPLIED"
+  },
+  "3842119": {
+    "ticket_id": 3842119,
+    "timestamp": "2026-05-23 18:20:05.701070",
+    "subject": "Problem While Ordering Book from Testbook",
+    "thread": "\nSUBJECT:\nProblem While Ordering Book from Testbook\n\n\nORIGINAL ISSUE:\nDear Testbook Support Team, I hope you are doing well. I am trying to order a book from the Testbook platform, but the order is not getting placed successfully. I have tried multiple times, but I am facing the same issue. Please look into this problem and help me complete the order as soon as possible. Details: Registered Mobile Number: 8018183027 Book Name : image is attached Issue Faced: Order not getting placed Kindly resolve the issue at the earliest. Thank you. Regards, Bhairab Negi\n\n",
+    "intent": "ORDER_DELAY",
+    "summary": "Order not getting placed successfully",
+    "reply": "Please wait until the estimated delivery date (EDD). You can also track the latest shipment status here:\nhttps://search-dashboard-uiwb.onrender.com/\n\nIf the EDD has already passed and the order is still not delivered/dispatched, kindly report back to us for further investigation.",
+    "status": "AUTO_REPLIED"
+  },
+  "3835706": {
+    "ticket_id": 3835706,
+    "timestamp": "2026-05-23 18:21:01.864496",
+    "subject": "27.04.2026 Book payment yet not delivered",
+    "thread": "\nSUBJECT:\n27.04.2026 Book payment yet not delivered\n\n\nORIGINAL ISSUE:\n27.04.2026 Book payment yet not delivered Hi *Angrej*, Thanks for shopping with *Testbook Books*! We have processed your order. Sit back, relax and wait for your order to arrive! ? *? Order ID:* TB-BOOK-30906 *? Product(s):* ➜ Soorma 7.0 Current Affairs Book (July 2025 – March 2026) | Punjab Di No.1 Current Affairs Book | 2500+ One Liner Questions | Punjabi & English Medium | For PSSSB, Punjab Police, PPSC, SSC & Chandigarh Exams | By Gagandeep Singh | Testbook (1 Unit) *? Order Total:* ₹249.00 *?Payment Type:* Prepaid *? Track Your Order:* We’ll keep you posted on every step until your books reach your doorstep! ?\n\n",
+    "intent": "ORDER_DELAY",
+    "summary": "Order not delivered, order ID TB-BOOK-30906",
+    "reply": "Please wait until the estimated delivery date (EDD). You can also track the latest shipment status here:\nhttps://search-dashboard-uiwb.onrender.com/\n\nIf the EDD has already passed and the order is still not delivered/dispatched, kindly report back to us for further investigation.",
+    "status": "AUTO_REPLIED"
+  },
+  "3834964": {
+    "ticket_id": 3834964,
+    "timestamp": "2026-05-23 18:21:44.267196",
+    "subject": "Request for Replacement of Damaged Banking Reasoning Book",
+    "thread": "\nSUBJECT:\nRequest for Replacement of Damaged Banking Reasoning Book\n\n\nORIGINAL ISSUE:\nDear Testbook Support Team, I am writing to inform you about an issue with my recent order, Order #TB-BOOK-31859. In this order, the Banking Reasoning book was received in damaged condition. The book is torn, several pages are not properly binded, and there are pen tick marks on the pages, which indicates that the book may have been previously used. I request you to kindly look into this matter and arrange for a replacement with a new Banking Reasoning book at the earliest. Order No.: TB-BOOK-31859 Please let me know the further process for replacement. Thank you for your support. Regards, Sharmistha Dutta\n\n\nCUSTOMER:\nPlease let me know about the issue. Are you going to exchange the book? On Sat, May 16, 2026, 12:10 AM Testbook Support\n\n",
+    "intent": "MISPRINTED_BOOK",
+    "summary": "",
+    "reply": "Book exchange is not applicable unless it is a major issue. Please share the page numbers and issue details for verification. A PDF of the affected pages/books can be provided after verification.",
+    "status": "AUTO_REPLIED"
+  },
+  "3828774": {
+    "ticket_id": 3828774,
+    "timestamp": "2026-05-23 18:21:59.976838",
+    "subject": "My book not deliverd .",
+    "thread": "\nSUBJECT:\nMy book not deliverd .\n\n\nORIGINAL ISSUE:\nSoorma7 current affairs\n\n",
+    "intent": "ORDER_DELAY",
+    "summary": "Customer is reporting a delay in delivery of their book order",
+    "reply": "Please wait until the estimated delivery date (EDD). You can also track the latest shipment status here:\nhttps://search-dashboard-uiwb.onrender.com/\n\nIf the EDD has already passed and the order is still not delivered/dispatched, kindly report back to us for further investigation.",
+    "status": "AUTO_REPLIED"
+  },
+  "3818894": {
+    "ticket_id": 3818894,
+    "timestamp": "2026-05-23 18:22:43.590605",
+    "subject": "Product inside the box is missing",
+    "thread": "\nSUBJECT:\nProduct inside the box is missing\n\n\nORIGINAL ISSUE:\n\n\n\nCUSTOMER:\nI am still waiting for your response. On Sun, 10 May, 2026, 5:26 pm Testbook Support,\n\n\nCUSTOMER:\nYou can call me now. On Sun, 10 May, 2026, 6:04 pm Testbook Support,\n\n\nCUSTOMER:\n> You can call me now. > > On Sun, 10 May, 2026, 6:04 pm Testbook Support,\n\n\nCUSTOMER:\nYou can call me now. On Mon, 11 May, 2026, 11:53 am Testbook Support,\n\n\nCUSTOMER:\nYou can call me now. On Mon, 11 May, 2026, 5:05 pm Testbook Support,\n\n",
+    "intent": "ORDER_DELAY",
+    "summary": "",
+    "reply": "Please wait until the estimated delivery date (EDD). You can also track the latest shipment status here:\nhttps://search-dashboard-uiwb.onrender.com/\n\nIf the EDD has already passed and the order is still not delivered/dispatched, kindly report back to us for further investigation.",
+    "status": "AUTO_REPLIED"
+  },
+  "3867531": {
+    "ticket_id": 3867531,
+    "timestamp": "2026-05-23 18:25:48.477856",
+    "subject": "Request to Update Delivery Address for Order ID 6a0ff86a5d73c07805144980",
+    "thread": "\nSUBJECT:\nRequest to Update Delivery Address for Order ID 6a0ff86a5d73c07805144980\n\n\nORIGINAL ISSUE:\nDear Support Team, I hope you are doing well. I would like to request an update to the delivery address for my order. Order ID: 6a0ff86a5d73c07805144980 The address I entered previously was: 2G-3201 Lavender Society Indiabulls Green Panvel Thane, Maharashtra 401206 The correct delivery address is: 2G-3201 Lavender Society Indiabulls Green Panvel Kon Village, Maharashtra 410206 Kindly update the shipping address at the earliest and confirm once the changes have been made. Thank you for your support. Vaishnavi Gupta Phone N.o. 6388589465\n\n",
+    "intent": "ADDRESS_CHANGE",
+    "summary": "",
+    "reply": "Minor address corrections (house number, landmark, etc.) can be updated. Complete address changes are not allowed. Pincode changes are strictly not permitted.",
+    "status": "AUTO_REPLIED"
+  },
+  "3850015": {
+    "ticket_id": 3850015,
+    "timestamp": "2026-05-23 18:26:54.090439",
+    "subject": "Book order related",
+    "thread": "\nSUBJECT:\nBook order related\n\n\nORIGINAL ISSUE:\nDear sir/ Madam I ordered a book named UPSC Indian Geography on 18 May 2026 , the book is to be delivered on 20th may but I didn't get any tracking number or any other update related to it. Please provide me update/ status of the book.\n\n\nCUSTOMER:\nI am still waiting for your response.\n\n\nAGENT:\nDear Student, We have reviewed our records and are unable to locate any transaction associated with the email address from which you contacted us. To assist you further, we kindly request that you share your registered mobile number or the correct email address used at the time of purchase. If available, please also provide a payment screenshot or transaction ID. This will help us investigate and resolve your concern at the earliest. Regards, Testbook Support\n\n\nCUSTOMER:\nI am sharing the screenshot of invoice from testbook app in which everything is correct\n\n\nCUSTOMER:\nI ordered a book through testbook app on 18 may 2026, it is supposed to be delivered on my address on 20 may 2026 I have done payment already. I am sharing payment details and invoice with this email.\n\n\nCUSTOMER:\nMy mobile number is 9813835944\n\n\nCUSTOMER:\nYou are doing fraud with innocent students.\n\n",
+    "intent": "ORDER_NOT_FOUND",
+    "summary": "Customer reported delayed book delivery without tracking number, investigation required",
+    "reply": "Please share your registered mobile number/email ID used during purchase or share the order screenshot. Without valid registered details, no action can be taken.",
+    "status": "AUTO_REPLIED"
+  }
+}
