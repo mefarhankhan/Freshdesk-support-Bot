@@ -1,6 +1,6 @@
 {
   "3850553": {
-    "ticket_id": 3850553,
+    "ticket_id": ,
     "timestamp": "2026-05-23 18:14:29.939237",
     "subject": "Order not receved",
     "thread": "\nSUBJECT:\nOrder not receved\n\n\nORIGINAL ISSUE:\nI ordered a book order id is AWB:143263418484773, that was out for delivery yesterday but delevery person not reach to me or not contct to me and reatemed scheduled I reatemed for delevery, but delevery person not respond, Please provide me contact no of delevery person.\n\n",
@@ -10,7 +10,7 @@
     "status": "AUTO_REPLIED"
   },
   "3849992": {
-    "ticket_id": 3849992,
+    "ticket_id": ,
     "timestamp": "2026-05-23 18:16:08.944237",
     "subject": "Issues regarding book purchase",
     "thread": "\nSUBJECT:\nIssues regarding book purchase\n\n\nORIGINAL ISSUE:\nI have purchased 2 books from books.testbook, the payment was successful but neither i received any sms or order confirmation nor did i receive any mail or the books in my mail.\n\n\nCUSTOMER:\nThis is my number. 8825062271 On Tue, 19 May, 2026, 9:16 am Testbook Support,\n\n\nCUSTOMER:\nYou can call me now 8825062271 On Wed, 20 May, 2026, 8:09 am Testbook Support,\n\n",
@@ -20,7 +20,7 @@
     "status": "AUTO_REPLIED"
   },
   "3848661": {
-    "ticket_id": 3848661,
+    "ticket_id": ,
     "timestamp": "2026-05-23 18:16:48.476800",
     "subject": "",
     "thread": "\nSUBJECT:\n\n\n\nORIGINAL ISSUE:\nSir/ madam I ordered Nvs/ kvs textbook but I give wrong mobile number Correct mobile number - 6364685817\n\n\nCUSTOMER:\nI ordered Nvs kvs TGT science descriptive textbook book but I give wrong mobile number Correct mobile number is 6364682817 On Mon, 18 May, 2026, 6:17 pm Testbook Support,\n\n\nCUSTOMER:\nPlease give delivery man contact number > I ordered Nvs kvs TGT science descriptive textbook book but I give wrong > mobile number > Correct mobile number is 6364682817 > > On Mon, 18 May, 2026, 6:17 pm Testbook Support,\n\n",
@@ -30,7 +30,7 @@
     "status": "AUTO_REPLIED"
   },
   "3848376": {
-    "ticket_id": 3848376,
+    "ticket_id": ,
     "timestamp": "2026-05-23 18:17:20.303531",
     "subject": "Need urgent attention ⚠️⚠️",
     "thread": "\nSUBJECT:\nNeed urgent attention ⚠️⚠️\n\n\nORIGINAL ISSUE:\nDear Team, I am writing to bring to my attention an issue regarding a book I recently purchased. I have attached the order details to this email for your reference. Although the order was placed on 14 may, I have not yet received the delivery. I have attempted to contact the delivery person multiple times, but the line is continuously busy. Could you please look into this matter and take the necessary action to ensure my order is delivered as soon as possible? I look forward to your prompt response. Best regards, Ranvir Singh Ranvir Singh\n\n",
@@ -40,7 +40,7 @@
     "status": "AUTO_REPLIED"
   },
   "3846643": {
-    "ticket_id": 3846643,
+    "ticket_id": ,
     "timestamp": "2026-05-23 18:19:26.918157",
     "subject": "Order is not shown in my account",
     "thread": "\nSUBJECT:\nOrder is not shown in my account\n\n\nORIGINAL ISSUE:\nHi, I purchased a book from Testbook and payment was successful through Razorpay, but I did not receive any order confirmation, email, SMS, or tracking details. Please check my order status. Payment ID: pay_SpWIQ52bBoYUZd Amount: ₹119 Date & Time: May 15, 11:09 AM I am attaching the payment screenshot for reference.\n\n\nCUSTOMER:\nThis is my number. 7903791751\n\n",
@@ -50,7 +50,7 @@
     "status": "AUTO_REPLIED"
   },
   "3842119": {
-    "ticket_id": 3842119,
+    "ticket_id": ,
     "timestamp": "2026-05-23 18:20:05.701070",
     "subject": "Problem While Ordering Book from Testbook",
     "thread": "\nSUBJECT:\nProblem While Ordering Book from Testbook\n\n\nORIGINAL ISSUE:\nDear Testbook Support Team, I hope you are doing well. I am trying to order a book from the Testbook platform, but the order is not getting placed successfully. I have tried multiple times, but I am facing the same issue. Please look into this problem and help me complete the order as soon as possible. Details: Registered Mobile Number: 8018183027 Book Name : image is attached Issue Faced: Order not getting placed Kindly resolve the issue at the earliest. Thank you. Regards, Bhairab Negi\n\n",
@@ -60,12 +60,12 @@
     "status": "AUTO_REPLIED"
   },
   "3835706": {
-    "ticket_id": 3835706,
+    "ticket_id": ,
     "timestamp": "2026-05-23 18:21:01.864496",
     "subject": "27.04.2026 Book payment yet not delivered",
     "thread": "\nSUBJECT:\n27.04.2026 Book payment yet not delivered\n\n\nORIGINAL ISSUE:\n27.04.2026 Book payment yet not delivered Hi *Angrej*, Thanks for shopping with *Testbook Books*! We have processed your order. Sit back, relax and wait for your order to arrive! ? *? Order ID:* TB-BOOK-30906 *? Product(s):* ➜ Soorma 7.0 Current Affairs Book (July 2025 – March 2026) | Punjab Di No.1 Current Affairs Book | 2500+ One Liner Questions | Punjabi & English Medium | For PSSSB, Punjab Police, PPSC, SSC & Chandigarh Exams | By Gagandeep Singh | Testbook (1 Unit) *? Order Total:* ₹249.00 *?Payment Type:* Prepaid *? Track Your Order:* We’ll keep you posted on every step until your books reach your doorstep! ?\n\n",
     "intent": "ORDER_DELAY",
-    "summary": "Order not delivered, order ID TB-BOOK-30906",
+    "summary": "Order not delivered, order ID ",
     "reply": "Please wait until the estimated delivery date (EDD). You can also track the latest shipment status here:\nhttps://search-dashboard-uiwb.onrender.com/\n\nIf the EDD has already passed and the order is still not delivered/dispatched, kindly report back to us for further investigation.",
     "status": "AUTO_REPLIED"
   },
