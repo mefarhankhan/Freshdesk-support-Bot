@@ -18,18 +18,16 @@ def health():
 
 @app.post("/freshdesk-webhook")
 def freshdesk_webhook():
-    expected_secret = os.getenv("WEBHOOK_SECRET", "")
-    received_secret = request.headers.get("X-Webhook-Secret", "")
+    expected = os.getenv("WEBHOOK_SECRET", "")
+    received = request.headers.get("X-Webhook-Secret", "")
 
-    if not expected_secret:
-        return jsonify({"error": "Webhook secret is not configured"}), 500
+    if not expected:
+        return jsonify({"error": "Webhook secret not configured"}), 500
 
-    if not hmac.compare_digest(received_secret, expected_secret):
+    if not hmac.compare_digest(received, expected):
         return jsonify({"error": "Unauthorized"}), 401
 
-    payload = request.get_json(silent=True) or {}
-
-    # Receiver only: do not call the AI bot or send any replies.
+    # Receiver only: no ticket processing or replies.
     print("Webhook received. Automatic replies are disabled.")
 
     return jsonify({
